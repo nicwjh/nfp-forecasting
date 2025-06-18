@@ -1,11 +1,11 @@
 # Macro Forecasting
 
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][[license-url](https://github.com/nicwjh/Portfolio-Optimization/blob/main/README.md?plain=1#L74)
 
 <br />
 <p align="center">
   <!-- Optional project logo -->
-  <!-- <img src="figures/project_logo.png" alt="Logo" width="300" height="300"> -->
+  <!-- <img src="https://github.com/nicwjh/Macro-research/blob/main/figures/project_logo.png.png" alt="Logo" width="300" height="300"> -->
   <h3 align="center">Macro Forecasting</h3>
   <p align="center">
     Quantitative approach to macro-forecasting.
@@ -22,24 +22,16 @@ In this project, we propose a way to perform a smart forecast of key macro indic
 
 ## Built With
 
-<!-- | Core Packages / Frameworks |
-|----------------------------|
-| pandas / numpy |
-| <!-- add others here --> | -->
+
 
 ### Methods  
-<!-- * e.g. Bayesian Model Averaging -->
-* <!-- e.g. Multiplicative Weights Update -->
-* <!-- add more -->
+
 
 ### Technologies  
-<!-- * Python (≥ 3.10)
-* Jupyter / VS Code, etc. -->
 
 ---
 
 ## Getting Started
 
 ### Prerequisites
-<!-- ```bash
-pip install -r requirements.txt -->
+
