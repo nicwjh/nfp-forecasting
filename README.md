@@ -1,6 +1,9 @@
 # Macro Forecasting
 
-[![MIT License][license-shield]][[license-url](https://github.com/nicwjh/Portfolio-Optimization/blob/main/README.md?plain=1#L74)]
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://github.com/nicwjh/Portfolio-Optimization/blob/main/README.md?plain=1#L74
+
+[![MIT License][license-shield]][license-url]
 
 <br />
 <p align="center">
