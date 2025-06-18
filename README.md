@@ -1,7 +1,7 @@
 # Macro Forecasting
 
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/nicwjh/Portfolio-Optimization/blob/main/README.md?plain=1#L74
+[license-url]: https://github.com/nicwjh/Macro-research?tab=MIT-1-ov-file
 
 [![MIT License][license-shield]][license-url]
 
@@ -35,7 +35,6 @@ In this project, we propose methods to perform a smart forecast of key macro ind
 
 ### Technologies  
 
----
 
 ## Getting Started
 
