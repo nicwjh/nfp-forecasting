@@ -11,7 +11,7 @@
     <img src="https://github.com/nicwjh/Macro-research/blob/main/figures/project_logo.png.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Portfolio Optimization</h3>
+  <h3 align="center">Forecasting of Macro Indicators</h3>
 
   <p align="center">
     Quantitative approach to macro-forecasting.
@@ -24,7 +24,7 @@
 
 ## About
 
-In this project, we propose a way to perform a smart forecast of key macro indicators. 
+In this project, we propose methods to perform a smart forecast of key macro indicators. 
 
 ## Built With
 
