@@ -138,7 +138,7 @@ td
 
 <body link=blue vlink=purple>
 <table>
-<tr><td >NFP TCH  Index</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >NFP TCH Index</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Release Date</td><td  x:str class=blptext>7/3/2025</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Time</td><td  x:str class=blptext>08:30</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td  x:str class=blptext>Country/Region</td><td >US</td><td ></td><td ></td><td ></td></tr>
@@ -150,17 +150,17 @@ td
 <tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td >Summary</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Median Estimate</td><td >110k</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Average Estimate</td><td >109.94k</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Average Estimate</td><td >107.95k</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >High Estimate</td><td >160k</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Low Estimate</td><td >70k</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Number of Estimates</td><td >67</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Number of Estimates</td><td >77</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Qualified Economists</td><td >67</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Standard Deviation</td><td >17.98k</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Standard Deviation</td><td >17.90k</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Custom Estimate</td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td >Economist Estimates</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Economist</td><td >Firm</td><td >Estimate</td><td >As of</td><td >Rank</td></tr>
-<tr><td ></td><td >Stan Shipley</td><td >Evercore ISI</td><td >115</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
+<tr><td ></td><td >Stan Shipley</td><td >Evercore ISI</td><td >75</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td ></td><td  x:str class=blptext>Crandall/Jordan</td><td >Wrightson ICAP LLC</td><td >110</td><td  x:str class=blptext>6/12/2025</td><td ></td></tr>
 <tr><td ></td><td >Hugh A Johnson</td><td >Hugh Johnson Economics LLC</td><td >125</td><td  x:str class=blptext>6/20/2025</td><td ></td></tr>
 <tr><td ></td><td >Michael R Englund</td><td >Action Economics LLC</td><td >130</td><td  x:str class=blptext>6/20/2025</td><td ></td></tr>
@@ -174,7 +174,7 @@ td
 <tr><td ></td><td  x:str class=blptext>D. Porter/S. Anderson</td><td >Bank of Montreal</td><td >120</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
 <tr><td ></td><td  x:str class=blptext>Marion/Paquet</td><td >National Bank of Canada Financial Inc</td><td >115</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
 <tr><td ></td><td >Michael Brown</td><td >Visa USA Inc</td><td >120</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
-<tr><td ></td><td  x:str class=blptext>Stein/Wesbury</td><td >First Trust Portfolios LP</td><td >100</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Stein/Wesbury</td><td >First Trust Portfolios LP</td><td >93</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td ></td><td >Ryan Wang</td><td >HSBC Securities USA Inc</td><td >110</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Dirk Chlench</td><td >Landesbank Baden-Wuerttemberg</td><td >90</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Standard Chartered PLC</td><td >95</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
@@ -184,7 +184,7 @@ td
 <tr><td ></td><td >Patrick Franke</td><td >Helaba Frankfurt</td><td >100</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td  x:str class=blptext>Shaw/Henderson</td><td >Investec Bank PLC</td><td >90</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Yoshimasa Maruyama</td><td >SMBC Nikko Securities Inc</td><td >95</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
-<tr><td ></td><td >Jay H Bryson</td><td >Wells Fargo Bank NA</td><td >115</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
+<tr><td ></td><td >Jay H Bryson</td><td >Wells Fargo Bank NA</td><td >100</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td ></td><td >Stephanie Roth</td><td >Wolfe Research LLC</td><td >130</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Uwe Duerkop</td><td >Berliner Sparkasse</td><td >75</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Nicholas Van Ness</td><td >Credit Agricole CIB</td><td >100</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
@@ -205,7 +205,7 @@ td
 <tr><td ></td><td >Thomas Simons</td><td >Jefferies LLC</td><td >90</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Oxford Economics USA Inc</td><td >115</td><td  x:str class=blptext>6/27/2025</td><td >8th</td></tr>
 <tr><td ></td><td >Stephen Gallagher</td><td >Societe Generale</td><td >125</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
-<tr><td ></td><td >Rogier Quaedvlieg</td><td >ABN Amro Bank NV</td><td >140</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
+<tr><td ></td><td >Rogier Quaedvlieg</td><td >ABN Amro Bank NV</td><td >120</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td  x:str class=blptext>Acciones y Valores SA/Colombia</td><td >115</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Michael E Feroli</td><td >JP Morgan Securities LLC</td><td >125</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >David P Kelly</td><td >JPMorgan Asset Management Inc</td><td >131</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
@@ -227,6 +227,16 @@ td
 <tr><td ></td><td ></td><td >Westpac Banking Corp</td><td >130</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td >Nash Peyton</td><td >Wilmington Trust Company</td><td >80</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Itau Unibanco SA</td><td >110</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
+<tr><td ></td><td >Marc Giannoni</td><td >Barclays Capital Inc.</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
+<tr><td ></td><td >Jacob Meyer</td><td >Barings LLC</td><td >125</td><td  x:str class=blptext>7/01/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td  x:str class=blptext>JGP Gestao de Recursos Ltda/Brazil</td><td >117</td><td  x:str class=blptext>7/01/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Banco BTG Pactual SA</td><td >90</td><td  x:str class=blptext>7/01/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Bloomberg Economics</td><td >120</td><td  x:str class=blptext>7/02/2025</td><td >7th</td></tr>
+<tr><td ></td><td  x:str class=blptext>Joe Brusuelas/Tuan Nguyen</td><td >RSM US LLp</td><td >100</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Japan Digital Design Inc</td><td >102</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td >Christopher Hodge</td><td >Natixis North America LLC</td><td >83</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td >Daniil Manaenkov</td><td >University of Michigan</td><td >111</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Novus Capital</td><td >80</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 </body></html>
