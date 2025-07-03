@@ -144,18 +144,18 @@ td
 <tr><td ></td><td  x:str class=blptext>Country/Region</td><td >US</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Event</td><td >Change in Nonfarm Payrolls</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Period</td><td >Jun</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Actual</td><td >nan</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Actual</td><td >147</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Prior</td><td >139</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Revised</td><td >nan</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Revised</td><td >144</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td >Summary</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Median Estimate</td><td >110k</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Average Estimate</td><td >107.95k</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Median Estimate</td><td >106k</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Average Estimate</td><td >107.57k</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >High Estimate</td><td >160k</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Low Estimate</td><td >70k</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Number of Estimates</td><td >77</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Qualified Economists</td><td >67</td><td ></td><td ></td><td ></td></tr>
-<tr><td ></td><td >Standard Deviation</td><td >17.90k</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Number of Estimates</td><td >79</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Qualified Economists</td><td >69</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Standard Deviation</td><td >17.84k</td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td >Custom Estimate</td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
 <tr><td >Economist Estimates</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
@@ -170,7 +170,7 @@ td
 <tr><td ></td><td >Yongxin Chen</td><td >Japan Post Insurance Co Ltd</td><td >110</td><td  x:str class=blptext>6/25/2025</td><td ></td></tr>
 <tr><td ></td><td  x:str class=blptext>Ashworth/Dales</td><td >Capital Economics NA Ltd</td><td >130</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
 <tr><td ></td><td >Rhys Herbert</td><td >Lloyds Bank PLC</td><td >130</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
-<tr><td ></td><td >David H Sloan</td><td  x:str class=blptext>4CAST/Continuum Economics</td><td >75</td><td  x:str class=blptext>6/26/2025</td><td >5th</td></tr>
+<tr><td ></td><td >David H Sloan</td><td  x:str class=blptext>4CAST/Continuum Economics</td><td >75</td><td  x:str class=blptext>6/26/2025</td><td >8th</td></tr>
 <tr><td ></td><td  x:str class=blptext>D. Porter/S. Anderson</td><td >Bank of Montreal</td><td >120</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
 <tr><td ></td><td  x:str class=blptext>Marion/Paquet</td><td >National Bank of Canada Financial Inc</td><td >115</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
 <tr><td ></td><td >Michael Brown</td><td >Visa USA Inc</td><td >120</td><td  x:str class=blptext>6/26/2025</td><td ></td></tr>
@@ -199,11 +199,11 @@ td
 <tr><td ></td><td >Lawrence Werther</td><td >Daiwa Capital Markets America Inc</td><td >110</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Augustine Faucher</td><td >PNC Finl Services Group INC</td><td >105</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Michael Reid</td><td >RBC Capital Markets LLC</td><td >106</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
-<tr><td ></td><td >Derek Holt</td><td >Scotiabank</td><td >160</td><td  x:str class=blptext>6/27/2025</td><td >6th</td></tr>
-<tr><td ></td><td ></td><td >Morgan Stanley Group Inc</td><td >140</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
+<tr><td ></td><td >Derek Holt</td><td >Scotiabank</td><td >160</td><td  x:str class=blptext>6/27/2025</td><td >1st</td></tr>
+<tr><td ></td><td ></td><td >Morgan Stanley Group Inc</td><td >140</td><td  x:str class=blptext>6/27/2025</td><td >10th</td></tr>
 <tr><td ></td><td >Brett Ryan</td><td >Deutsche Bank Securities Inc</td><td >100</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Thomas Simons</td><td >Jefferies LLC</td><td >90</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
-<tr><td ></td><td ></td><td >Oxford Economics USA Inc</td><td >115</td><td  x:str class=blptext>6/27/2025</td><td >8th</td></tr>
+<tr><td ></td><td ></td><td >Oxford Economics USA Inc</td><td >115</td><td  x:str class=blptext>6/27/2025</td><td >5th</td></tr>
 <tr><td ></td><td >Stephen Gallagher</td><td >Societe Generale</td><td >125</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Rogier Quaedvlieg</td><td >ABN Amro Bank NV</td><td >120</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td  x:str class=blptext>Acciones y Valores SA/Colombia</td><td >115</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
@@ -211,18 +211,18 @@ td
 <tr><td ></td><td >David P Kelly</td><td >JPMorgan Asset Management Inc</td><td >131</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Briefing.com</td><td >127</td><td  x:str class=blptext>6/27/2025</td><td ></td></tr>
 <tr><td ></td><td >Russell T Price</td><td >Ameriprise Financial Inc</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
-<tr><td ></td><td >Andreas Busch</td><td >Bantleon AG</td><td >125</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
+<tr><td ></td><td >Andreas Busch</td><td >Bantleon AG</td><td >125</td><td  x:str class=blptext>6/30/2025</td><td >9th</td></tr>
 <tr><td ></td><td ></td><td >Citigroup Inc</td><td >85</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td >William Adams</td><td >Comerica Bank</td><td >105</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
-<tr><td ></td><td >Christopher Low</td><td >FHN Financial</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td >9th</td></tr>
+<tr><td ></td><td >Christopher Low</td><td >FHN Financial</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Goldman Sachs & Co LLC</td><td >85</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td >Carl B Weinberg</td><td >High Frequency Economics</td><td >124</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td  x:str class=blptext>Knightley/Carnell</td><td >ING Financial Markets LLC</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
-<tr><td ></td><td >Christophe Barraud</td><td >Market Securities Monaco Sam</td><td >122</td><td  x:str class=blptext>6/30/2025</td><td >4th</td></tr>
+<tr><td ></td><td >Christophe Barraud</td><td >Market Securities Monaco Sam</td><td >122</td><td  x:str class=blptext>6/30/2025</td><td >3rd</td></tr>
 <tr><td ></td><td >Samuel Tombs</td><td >Pantheon Macroeconomics Ltd</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td >Richard F Moody</td><td >Regions Bank</td><td >98</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
-<tr><td ></td><td >Andrew Zatlin</td><td >Southbay Research</td><td >78</td><td  x:str class=blptext>6/30/2025</td><td >1st</td></tr>
-<tr><td ></td><td ></td><td >UBS Securities LLC</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td >2nd</td></tr>
+<tr><td ></td><td >Andrew Zatlin</td><td >Southbay Research</td><td >78</td><td  x:str class=blptext>6/30/2025</td><td >2nd</td></tr>
+<tr><td ></td><td ></td><td >UBS Securities LLC</td><td >100</td><td  x:str class=blptext>6/30/2025</td><td >4th</td></tr>
 <tr><td ></td><td >Peter G Morici</td><td >University of Maryland</td><td >130</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Westpac Banking Corp</td><td >130</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
 <tr><td ></td><td >Nash Peyton</td><td >Wilmington Trust Company</td><td >80</td><td  x:str class=blptext>6/30/2025</td><td ></td></tr>
@@ -231,12 +231,14 @@ td
 <tr><td ></td><td >Jacob Meyer</td><td >Barings LLC</td><td >125</td><td  x:str class=blptext>7/01/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td  x:str class=blptext>JGP Gestao de Recursos Ltda/Brazil</td><td >117</td><td  x:str class=blptext>7/01/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Banco BTG Pactual SA</td><td >90</td><td  x:str class=blptext>7/01/2025</td><td ></td></tr>
-<tr><td ></td><td ></td><td >Bloomberg Economics</td><td >120</td><td  x:str class=blptext>7/02/2025</td><td >7th</td></tr>
+<tr><td ></td><td ></td><td >Bloomberg Economics</td><td >120</td><td  x:str class=blptext>7/02/2025</td><td >6th</td></tr>
 <tr><td ></td><td  x:str class=blptext>Joe Brusuelas/Tuan Nguyen</td><td >RSM US LLp</td><td >100</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Japan Digital Design Inc</td><td >102</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
-<tr><td ></td><td >Christopher Hodge</td><td >Natixis North America LLC</td><td >83</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td >Christopher Hodge</td><td >Natixis North America LLC</td><td >83</td><td  x:str class=blptext>7/02/2025</td><td >7th</td></tr>
 <tr><td ></td><td >Daniil Manaenkov</td><td >University of Michigan</td><td >111</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td ></td><td ></td><td >Novus Capital</td><td >80</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td >John D Herrmann</td><td >Herrmann Forecasting LLC</td><td >96</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Vinland Capital Management II Gestora de Recursos Ltda</td><td >90</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 </body></html>
