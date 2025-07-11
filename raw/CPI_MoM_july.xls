@@ -1,0 +1,204 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 9">
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	font-family:Arial;
+	mso-font-charset:0;}
+.blppct
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:Percent;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.blptext
+     {mso-number-format:\@;}
+.blpdate
+	{mso-style-parent:style0;
+	mso-number-format:"mm\/dd\/yyyy\;\@";}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Book1</x:Name>
+    <x:WorksheetOptions>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>27</x:ActiveRow>
+       <x:ActiveCol>17</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>10005</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+<table>
+<tr><td >CPI CHNG Index</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Release Date</td><td  x:str class=blptext>7/15/2025</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Time</td><td  x:str class=blptext>08:30</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Country/Region</td><td >US</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Event</td><td >CPI MoM</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Period</td><td >Jun</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Actual</td><td >nan</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Prior</td><td >0.100000</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Revised</td><td >nan</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >Summary</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Median Estimate</td><td >0.3%</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Average Estimate</td><td >0.27%</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >High Estimate</td><td >0.4%</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Low Estimate</td><td >-0.2%</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Number of Estimates</td><td >46</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Qualified Economists</td><td >61</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Standard Deviation</td><td >0.09%</td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Custom Estimate</td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td >Economist Estimates</td><td ></td><td ></td><td ></td><td ></td><td ></td></tr>
+<tr><td ></td><td >Economist</td><td >Firm</td><td >Estimate</td><td >As of</td><td >Rank</td></tr>
+<tr><td ></td><td >Oscar Munoz</td><td >TD Securities USA LLC</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Crandall/Jordan</td><td >Wrightson ICAP LLC</td><td >0.300000</td><td  x:str class=blptext>7/03/2025</td><td ></td></tr>
+<tr><td ></td><td >Brett Ryan</td><td >Deutsche Bank Securities Inc</td><td >0.400000</td><td  x:str class=blptext>6/27/2025</td><td >4th</td></tr>
+<tr><td ></td><td >Yongxin Chen</td><td >Japan Post Insurance Co Ltd</td><td >0.300000</td><td  x:str class=blptext>7/02/2025</td><td ></td></tr>
+<tr><td ></td><td >Hugh A Johnson</td><td >Hugh Johnson Economics LLC</td><td >0.200000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Michael R Englund</td><td >Action Economics LLC</td><td >0.200000</td><td  x:str class=blptext>7/03/2025</td><td ></td></tr>
+<tr><td ></td><td >Stephen L Stanley</td><td >Santander US Capital Markets LLC</td><td >0.300000</td><td  x:str class=blptext>7/03/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Besch/Luetje</td><td >Dekabank Deutsche Girozentrale</td><td >0.300000</td><td  x:str class=blptext>7/07/2025</td><td ></td></tr>
+<tr><td ></td><td >Jason M Schenker</td><td >Prestige Economics LLC</td><td >0.300000</td><td  x:str class=blptext>7/07/2025</td><td ></td></tr>
+<tr><td ></td><td >Derek Holt</td><td >Scotiabank</td><td >0.200000</td><td  x:str class=blptext>7/07/2025</td><td ></td></tr>
+<tr><td ></td><td >Jay H Bryson</td><td >Wells Fargo Bank NA</td><td >0.300000</td><td  x:str class=blptext>7/08/2025</td><td >5th</td></tr>
+<tr><td ></td><td >Jacob Meyer</td><td >Barings LLC</td><td >-0.200000</td><td  x:str class=blptext>7/08/2025</td><td ></td></tr>
+<tr><td ></td><td >Samuel Tombs</td><td >Pantheon Macroeconomics Ltd</td><td >0.300000</td><td  x:str class=blptext>7/09/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Citadel Securities Group LP</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>D. Porter/S. Anderson</td><td >Bank of Montreal</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Bank of America Corp</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Stein/Wesbury</td><td >First Trust Portfolios LP</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Citigroup Inc</td><td >0.200000</td><td  x:str class=blptext>7/10/2025</td><td >6th</td></tr>
+<tr><td ></td><td >David H Sloan</td><td  x:str class=blptext>4CAST/Continuum Economics</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td >Michael Reid</td><td >RBC Capital Markets LLC</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >BTG Pactual Asset Management SA DTVM</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td >Marc Giannoni</td><td >Barclays Capital Inc.</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Morgan Stanley Group Inc</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Marion/Paquet</td><td >National Bank of Canada Financial Inc</td><td >0.200000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td >Michael Brown</td><td >Visa USA Inc</td><td >0.300000</td><td  x:str class=blptext>7/10/2025</td><td ></td></tr>
+<tr><td ></td><td >Andreas Busch</td><td >Bantleon AG</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Ryan Wang</td><td >HSBC Securities USA Inc</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Knightley/Carnell</td><td >ING Financial Markets LLC</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Jean/Genereux</td><td >Desjardins Group</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Dirk Chlench</td><td >Landesbank Baden-Wuerttemberg</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Mizuho Securities USA LLC</td><td >0.200000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td  x:str class=blptext>Danske Bank A/S</td><td >0.200000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Patrick Franke</td><td >Helaba Frankfurt</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Yoshimasa Maruyama</td><td >SMBC Nikko Securities Inc</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Standard Chartered PLC</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Nicholas Van Ness</td><td >Credit Agricole CIB</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td >1st</td></tr>
+<tr><td ></td><td >Rhys Herbert</td><td >Lloyds Bank PLC</td><td >0.400000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Kathleen Bostjancic</td><td >Nationwide Mutual Insurance Co</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Uwe Duerkop</td><td >Berliner Sparkasse</td><td >0.100000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Lawrence Werther</td><td >Daiwa Capital Markets America Inc</td><td >0.200000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Moody's Analytics Inc</td><td >0.200000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Avery Shenfeld</td><td >Canadian Imperial Bank of Commerce</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td >Augustine Faucher</td><td >PNC Finl Services Group INC</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td >3rd</td></tr>
+<tr><td ></td><td >Stephen Gallagher</td><td >Societe Generale</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td ></td><td >Oxford Economics USA Inc</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td ></td><td  x:str class=blptext>Joe Brusuelas/Tuan Nguyen</td><td >RSM US LLp</td><td >0.300000</td><td  x:str class=blptext>7/11/2025</td><td ></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+</body></html>
