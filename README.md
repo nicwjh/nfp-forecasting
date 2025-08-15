@@ -81,7 +81,7 @@ For exact parameters, toggles, and export helpers (e.g., weights, `oos_maps`), s
 
 ## License
 
-Released under the **MIT License**. See the badge/link below for details.
+Distributed under the **MIT License** - `LICENSE`. 
 
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/nicwjh/Macro-research?tab=MIT-1-ov-file
