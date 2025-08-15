@@ -43,16 +43,16 @@ If you’re looking for setup instructions, data placement, and exact run order,
 
 nfp-forecasting/
 ├─ notebooks/
-│ ├─ 01_preprocess.ipynb # reshape/harmonize Bloomberg survey → parquet
-│ ├─ 02_explore.ipynb # diagnostics: errors, spread, tails, coverage
-│ └─ 03_forecast.ipynb # ensembles, dynamic MV, intervals, evaluation
-├─ raw/ # you provide: Bloomberg workbook(s)
+│  ├─ 01_preprocess.ipynb   # reshape/harmonize Bloomberg survey → parquet
+│  ├─ 02_explore.ipynb      # diagnostics: errors, spread, tails, coverage
+│  └─ 03_forecast.ipynb     # ensembles, dynamic MV, intervals, evaluation
+├─ raw/                     # Bloomberg workbook(s)
 ├─ out/
-│ └─ data/
-│ ├─ nfp_df.parquet
-│ └─ nfp_df_full.parquet
-├─ figures/ # plots & paper figures
-├─ MANUAL.md # install, data paths, run order, exports
+│  └─ data/
+│     ├─ nfp_df.parquet
+│     └─ nfp_df_full.parquet
+├─ figures/                 
+├─ MANUAL.md                # install, data paths, run order, exports
 ├─ requirements.txt
 └─ README.md
 
