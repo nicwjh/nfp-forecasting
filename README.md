@@ -1,7 +1,7 @@
 # Forecasting Consensus Expectations of Nonfarm Payrolls (NFP)
 
 <p align="center">
-  <img src="https://github.com/nicwjh/nfp-forecasting/blob/main/figures/project_logo.png.png" alt="NFP Forecasting Logo" width="220" />
+  <img src="https://github.com/nicwjh/nfp-forecasting/blob/main/figures/project_logo.png.png" alt="NFP Forecasting Logo" width="300" />
 </p>
 
 [![License][license-shield]][license-url]
@@ -9,7 +9,7 @@
 ## Overview
 
 A professional, reproducible framework for **real-time point and distributional forecasts** of U.S. Nonfarm Payrolls (NFP).  
-The project ingests Bloomberg survey data, builds **ensemble point forecasts** and **calibrated predictive intervals**, and evaluates performance with a common rubric—so signals are transparent, comparable, and ready for portfolio use.
+The project ingests Bloomberg survey data, builds **ensemble point forecasts** and **calibrated predictive intervals**, and evaluates performance with a common rubric;signals are transparent, comparable, and ready for portfolio use.
 
 If you’re looking for setup instructions, data placement, and exact run order, see **`MANUAL.md`** (kept separate from this README to keep the front page concise).
 
