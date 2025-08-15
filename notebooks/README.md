@@ -54,8 +54,9 @@ A clean, reproducible setup to preprocess Bloomberg NFP survey data, explore for
     ├─ raw/
     │  └─ nfp_historical.xlsx   # (you provide/update) Bloomberg NFP workbook
     ├─ out/
-    │  ├─ nfp_df.parquet        # COVID-filtered panel (exported by 01)
-    │  └─ nfp_df_full.parquet   # Full panel (exported by 01)
+    |  └─data
+    │    ├─ nfp_df.parquet        # COVID-filtered panel (exported by 01)
+    │    └─ nfp_df_full.parquet   # Full panel (exported by 01)
     ├─ requirements.txt
     └─ README.md
 
