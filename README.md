@@ -39,28 +39,6 @@ If you’re looking for setup instructions, data placement, and exact run order,
 
 ---
 
-## Repository layout (high level)
-
-nfp-forecasting/
-├─ notebooks/
-│  ├─ 01_preprocess.ipynb   # reshape/harmonize Bloomberg survey → parquet
-│  ├─ 02_explore.ipynb      # diagnostics: errors, spread, tails, coverage
-│  └─ 03_forecast.ipynb     # ensembles, dynamic MV, intervals, evaluation
-├─ raw/                     # Bloomberg workbook(s)
-├─ out/
-│  └─ data/
-│     ├─ nfp_df.parquet
-│     └─ nfp_df_full.parquet
-├─ figures/                 
-├─ MANUAL.md                # install, data paths, run order, exports
-├─ requirements.txt
-└─ README.md
-
-
-**Data policy:** Bloomberg source data are not committed. Only the two derived parquet panels above are expected under `out/data/`.
-
----
-
 ## Notebooks at a glance
 
 - **01_preprocess** — schema checks, long-panel construction, export of `nfp_df.parquet` (COVID-filtered) and `nfp_df_full.parquet` (full history).  
