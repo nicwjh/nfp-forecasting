@@ -13,6 +13,7 @@ The project ingests Bloomberg survey data, builds **ensemble point forecasts** a
 
 If you’re looking for setup instructions, data placement, and exact run order, see **`MANUAL.md`** (kept separate from this README to keep the front page concise).
 
+Details on research findings can be found in the [final report](https://github.com/nicwjh/nfp-forecasting/blob/main/nfp-forecasting.pdf).
 ---
 
 ## What this repository provides
